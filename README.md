@@ -44,7 +44,7 @@ A web multiplayer game that combines aerial dogfighting with language-learning.
    - Health bar, pixie inventory, optional targeting UI, and score display.
 
 ## Setting
-- **Vibelingo Bay:** A fantasy bay with a vibrant horizon—forests, mountains, mini-islands, and distant creatures (sea monsters, merpeople, dragons). The aesthetic is whimsical and immersive, encouraging exploration.
+- **Lingo Bay:** A fantasy bay with a vibrant horizon—forests, mountains, mini-islands, and distant creatures (sea monsters, merpeople, dragons). The aesthetic is whimsical and immersive, encouraging exploration.
 
 ## Goals
 - Collect pixies to build spell ammunition and survive.
